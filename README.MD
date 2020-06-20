@@ -7,9 +7,9 @@ Encontre um salão de beleza onde e quando quiser. Nos da equipe GoBarber sabemo
 
 ## Requisitos
 
--Ter instalado o NodeJS na versão LTS.
--Ter instalado o Yarn
--Ter instalado algum emulador android.
+* Ter instalado o NodeJS na versão LTS.
+* Ter instalado o Yarn
+* Ter instalado algum emulador android.
 
 Clone esse repositório
 
