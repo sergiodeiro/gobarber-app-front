@@ -1,4 +1,3 @@
-!()[./src/assets/logo.png]
 
 # GoBarber Mobile
 
