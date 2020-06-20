@@ -1,7 +1,7 @@
 
 # GoBarber Mobile
 
-Encontre um salão de beleza onde e quando quiser. Nos da equipe GoBarber sabemos o quanto vale o seu tempo e por isso conectamos clientes a seus cabeleireiros.
+Encontre um salão de beleza onde e quando quiser. Nos da equipe GoBarber sabemos o quanto o seu tempo é valioso e por isso conectamos clientes a seus cabeleireiros.
 
 # Como executar esse projeto
 
