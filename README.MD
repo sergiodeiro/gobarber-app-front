@@ -13,13 +13,13 @@ Encontre um salão de beleza onde e quando quiser. Nos da equipe GoBarber sabemo
 
 Clone esse repositório
 
-<pre>git clone https://github.com/MiguelBragaGarcia/GoBarber-App-Typescript.git</pre>
+<pre>git clone </pre>
 
 Instale todas as dependências
 
 <pre>yarn install</pre>
 
-Execute o servidor ![back-end](https://github.com/MiguelBragaGarcia/GoBarber-GoStack-11)
+Execute o servidor back-end
 
 <pre>yarn dev:server</pre>
 
