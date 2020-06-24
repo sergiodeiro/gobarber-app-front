@@ -1,0 +1,4 @@
+#Sat Jun 20 13:28:14 BRT 2020
+base.0=C\:\\Users\\Sergio\\Documents\\Project Personals\\GoBarber-App-Typescript\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
